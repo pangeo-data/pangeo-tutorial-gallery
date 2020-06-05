@@ -1,6 +1,8 @@
 # Pangeo Gallery Template
 
-This repository stores an example gallery repo for the Pangeo Gallery.
+This repository stores a gallery repo for the Pangeo Gallery.
+The content in this repo is the 
+[pangeo-tutorial](https://github.com/pangeo-data/pangeo-tutorial) notebooks.
 It is configured to automatically build itself using
 [binderbot](https://github.com/pangeo-gallery/binderbot).
 It is linked, via a git submodule, the the

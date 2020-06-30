@@ -1,4 +1,4 @@
-# Pangeo Gallery Template
+# Pangeo Tutorial Gallery
 
 This repository stores a gallery repo for the Pangeo Gallery.
 The content in this repo is the 

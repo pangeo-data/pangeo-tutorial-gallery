@@ -3,7 +3,7 @@ name: Pangeo Tutorial Gallery
 description: >-
   An gallery of notebooks to introduce the Pangeo software stack.
 gallery_repository: pangeo-gallery/pangeo-gallery
-binder_url: "https://aws-uswest2-binder.pangeo.io"
+binder_url: "https://mybinder.org"
 binder_repo: pangeo-data/pangeo-tutorial-gallery
 binder_ref: master
 binderbot_target_branch: binderbot-built

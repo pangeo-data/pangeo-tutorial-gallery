@@ -4,6 +4,6 @@ description: >-
   An gallery of notebooks to introduce the Pangeo software stack.
 gallery_repository: pangeo-gallery/pangeo-gallery
 binder_url: "https://mybinder.org"
-binder_repo: pangeo-data/pangeo-tutorial-gallery
+binder_repo: pangeo-gallery/default-binder
 binder_ref: master
 binderbot_target_branch: binderbot-built

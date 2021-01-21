@@ -5,7 +5,7 @@ The content in this repo is the
 [pangeo-tutorial](https://github.com/pangeo-data/pangeo-tutorial) notebooks.
 It is configured to automatically build itself using
 [binderbot](https://github.com/pangeo-gallery/binderbot).
-It is linked, via a git submodule, the the
+It is linked, via a git submodule, to the
 [gallery website repo](https://github.com/pangeo-gallery/pangeo-gallery).
 Whenever the notebooks are updated in this, repository
 dispatch is used to trigger a gallery rebuild. This keeps
